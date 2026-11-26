@@ -85,4 +85,4 @@ Route::get('/about', [PageController::class, 'about'])->name('about');
 
 ## Автор
 
-Макаров А., 2026.
+Максим Макаров, 2026.
